@@ -14,9 +14,13 @@
    ![image](https://github.com/user-attachments/assets/3cfe8e8d-9d06-499e-954c-6fa6ad1edb58)
 
 3. был запрещен доступ из машины Б в машину С
+ 
 ![image](https://github.com/user-attachments/assets/c001a874-454a-44ea-98d6-f999b9e4f6f4)
+
 теперь доступа нет
+
 ![image](https://github.com/user-attachments/assets/7817a062-ebc4-4bc4-9eca-973d526f172b)
+
 (не дает ввести пароль)
 
 Топологии сетей; модель OSI; NAT + зачем нужно, типы; DNS; DHCP + как хосты получают адреса; таблица маршрутизации.
