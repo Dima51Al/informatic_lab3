@@ -21,9 +21,11 @@
 2. был получен доступ из машины А в машину C,
 
 3. был запрещен доступ из машины Б в машину С
+---
    ![image](https://github.com/user-attachments/assets/235bcc1f-d0b2-4c45-b1e2-abeaa0e117b5)
+---
    ![image](https://github.com/user-attachments/assets/1521b83b-0ef6-4145-8ee6-8b9b4bab77d9)
-
+---
  
 
 Топологии сетей; модель OSI; NAT + зачем нужно, типы; DNS; DHCP + как хосты получают адреса; таблица маршрутизации.
